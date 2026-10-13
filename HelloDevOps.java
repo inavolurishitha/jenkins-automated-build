@@ -3,12 +3,6 @@ public class HelloDevOps {
     public static void main(String[] args) {
         System.out.println("Hello from DevOps!");
         System.out.println("Jenkins Automated Build Successful!");
-        System.out.println("Jenkins ");
-        System.out.println("hello");
-        System.out.println("hii");
-        System.out.println("bye");
-        
-        
         
     }
 }
