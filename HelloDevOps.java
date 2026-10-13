@@ -4,5 +4,6 @@ public class HelloDevOps {
         System.out.println("Hello from DevOps!");
         System.out.println("Jenkins Automated Build Successful!");
         
+        
     }
 }
